@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/zwitter/static/js/main.cb92a758.js",
+    "index.html": "/zwitter/index.html",
+    "main.cb92a758.js.map": "/zwitter/static/js/main.cb92a758.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cb92a758.js"
+  ]
+}
